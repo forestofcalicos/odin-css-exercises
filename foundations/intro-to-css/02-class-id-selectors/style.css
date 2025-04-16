@@ -1,0 +1,18 @@
+.oddNumbers{
+    font-family:verdana, dejavu sans, sans-serif;
+    background-color:rgb(255,200,200)
+}
+.oddNumbers.butCooler{
+    font-family:verdana, dejavu sans, sans-serif;
+    background-color:rgb(255,200,200);
+    font-size: 24px;
+}
+#id1{
+    color:rgb(0,0,255);
+    font-size: 36px;
+}
+#ID2{
+   background-color:rgb(200,255,200);
+    font-size: 24px;
+    font-weight: bold;
+}
